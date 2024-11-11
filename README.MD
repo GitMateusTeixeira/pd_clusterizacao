@@ -19,7 +19,7 @@ Projeto de disciplina de clusterização, utilizando modelos de aprendizado não
 - <div style='display: flex; align-items: center; margin-left: 10px'>
     <img style='width:30px; vertical-align: middle; margin-right: 10px' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg' alt='Numpy logo'>
     <span style='vertical-align: middle;'>
-    OBS: Para fins de compatibilidade com o sklearn, foi utilizada a biblioteca do Numpy v. 1.26.4, conforme descrito em '📄 requeriments.txt'.
+    OBS: Para fins de compatibilidade com o sklearn, foi utilizada a biblioteca do Numpy v. 1.26.4, conforme descrito em '📄 <a href='https://github.com/GitMateusTeixeira/pd_clusterizacao/blob/main/requirements.txt'>requeriments.txt</a>'.
     </span>
   </div><br>
 

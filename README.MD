@@ -28,7 +28,7 @@ Projeto de disciplina de clusterização, utilizando modelos de aprendizado não
 
 ## Análises
 
-O projeto realiza análises gráficas de clusterização do arquivo '🌎 country-data.csv' que possui informações econômicas e politicas sobre os países.
+O projeto realiza análises gráficas de clusterização do arquivo '🌎 <a href='https://github.com/GitMateusTeixeira/pd_clusterizacao/blob/main/data/country-data.csv'>country-data.csv</a>' que possui informações econômicas e politicas sobre os países.
 
 Para isso, o projeto faz uma análise exploratória da faixa de distribuição dos dados com boxplot, para verificar se há ou não a presença de outliers.
 
